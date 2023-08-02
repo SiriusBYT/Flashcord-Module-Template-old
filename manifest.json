@@ -1,7 +1,7 @@
 {
-  "id": "dev.replugged.ThemeTemplate",
-  "name": "Theme Template",
-  "description": "A theme template",
+  "id": "dev.flashcord.FCM",
+  "name": "Flashcord Module Template",
+  "description": "This theme is a Flashcord Module, modify each individual part of Flashcord without having to worry about updating your modification every time Flashcord updates!",
   "author": {
     "name": "replugged",
     "discordID": "1000992611840049192",
