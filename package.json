@@ -1,7 +1,7 @@
 {
-  "name": "theme-template",
+  "name": "Flashcord Module Templace",
   "version": "1.0.0",
-  "description": "A theme template",
+  "description": "This theme is a Flashcord Module, modify each individual part of Flashcord without having to worry about updating your modification every time Flashcord updates!",
   "engines": {
     "node": ">=18.0.0",
     "pnpm": ">=8.0.0"
