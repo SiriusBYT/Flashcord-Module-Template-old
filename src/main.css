@@ -1,8 +1,8 @@
 /* Add anything in the containers if you wanna INJECT extra code in the FlashCore Modules
-If you wanna add an option or more things such as Chat Effects or a Loading Animation then
-feel free to create your own @container. Make sure to pay attention to what you can modify
-due to the structure of Flashcord. It is recommended to have Flashcord's code on the side
-while developping your module. Anyways good luck friend! */
+If you wanna add an option or more things such as a Loading Animation or an alternative
+layout for say the members list then feel free to create your own @container. Make sure
+to pay attention to what you can modify due to the structure of Flashcord. It is recommended
+to have Flashcord's code on the side while developping your module. Anyways good luck friend! */
 /* https://sirio-network.com/flashcord/fc-sndl.css */
 
 /* 3-MGM_00-Control.css */
