@@ -1,3 +1,5 @@
+# WARNING: This template is outdated and no longer used!
+
 # This is a modified version of the Replugged Template.
 See the [theme development guide](https://guide.replugged.dev/docs/themes/getting-started) for more information on how to get it to produce a valid ASAR file.
 
